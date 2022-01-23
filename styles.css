@@ -1,0 +1,31 @@
+.bar {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  }
+
+  header{
+      background-color: lightgray;
+      text-align: right;
+      display: flex;
+      flex-direction: row-reverse;
+      align-items: center;
+      position: relative;
+  }
+
+  li{
+    list-style: none;
+  }
+
+  #menu-items{
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;  
+    border-color: lightgray;
+    background-color: white;
+    position: absolute;
+    top: 45px;
+  }
+
+  
